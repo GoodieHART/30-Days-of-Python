@@ -13,5 +13,6 @@ x3 = (x2 - x1) ** 2 # (10-2)^2
 y3 = (y2 - y1) ** 2 # (8 - 3)^2
 
 # final answer variable 'z'
+
 z = (x3 + y3) ** 0.5
 print(z)
