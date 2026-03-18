@@ -125,4 +125,8 @@ No. 23 Write a Python script that displays the following table
 4 1 4 16 64
 5 1 5 25 125
 """
-# Now it's comming to me! its a powers table, i'll come back much later, because i dont know if they want us to use loops 🙃
+print(1 , 1**1, 1**2, 1**3)
+print(2, 2**1, 2**2, 2**3)
+print(3, 3**1, 3**2, 3**3)
+print(4, 4**1, 4**2, 4**3)
+print(5, 5**1, 5**2, 5**3)
