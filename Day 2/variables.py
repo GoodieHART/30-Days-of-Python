@@ -17,6 +17,7 @@ fastest_cpu, chopping_board, art_period = "Potaoe Grater F9", "Wood", "Renaissan
 
 print(len(first_name))
 print("First Name Length: ", len(first_name), "Last Name Length: ", len(last_name))
+print(first_name == last_name)
 
 num_one = 5
 num_two = 4
